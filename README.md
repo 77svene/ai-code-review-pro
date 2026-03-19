@@ -14,3 +14,7 @@ Whether you're fighting legacy spaghetti code, validating tricky logic before a 
 3. Copy the fixed version into your project
 
 [🚀 Try it free](https://huggingface.co/spaces/orama-ai/ai-code-review-pro)
+
+## Pricing
+Free tier: 5 uses/day with clear use case for code reviews.
+Upgrade for unlimited access via Stripe.
