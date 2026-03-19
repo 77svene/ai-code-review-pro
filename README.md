@@ -1,32 +1,30 @@
-# ai-code-review-pro
-    ## Use Case
-    Use ai-code-review-pro to automatically scan pull requests for security vulnerabilities, bugs, and style violations before merging.
-    
-    ## Free Tier
-    5 uses/day (Verified Working)
-    
-    ## Upgrade
-    [Buy Unlimited - Gumroad](https://sovereignai.gumroad.com)
-     How to use
-1. Paste your code
-2. Get a detailed review with explanations and improvements
-3. Copy the fixed version into your project
-
-[🚀 Try it free](https://huggingface.co/spaces/orama-ai/ai-code-review-pro)
-
+IyBhaS1jb2RlLXJldmlldy1wcm8KICAgICMjIFVzZSBDYXNlCiAgICBVc2Ug
+YWktY29kZS1yZXZpZXctcHJvIHRvIGF1dG9tYXRpY2FsbHkgc2NhbiBwdWxs
+IHJlcXVlc3RzIGZvciBzZWN1cml0eSB2dWxuZXJhYmlsaXRpZXMsIGJ1Z3Ms
+IGFuZCBzdHlsZSB2aW9sYXRpb25zIGJlZm9yZSBtZXJnaW5nLgogICAgCiAg
+ICAjIyBGcmVlIFRpZXIKICAgIDUgdXNlcy9kYXkgKFZlcmlmaWVkIFdvcmtp
+bmcpCiAgICAKICAgICMjIFVwZ3JhZGUKICAgIFtCdXkgVW5saW1pdGVkIC0g
+R3Vtcm9hZF0oaHR0cHM6Ly9zb3ZlcmVpZ25haS5ndW1yb2FkLmNvbSkKICAg
+ICBIb3cgdG8gdXNlCjEuIFBhc3RlIHlvdXIgY29kZQoyLiBHZXQgYSBkZXRh
+aWxlZCByZXZpZXcgd2l0aCBleHBsYW5hdGlvbnMgYW5kIGltcHJvdmVtZW50
+cwozLiBDb3B5IHRoZSBmaXhlZCB2ZXJzaW9uIGludG8geW91ciBwcm9qZWN0
+Cgpb8J+agCBUcnkgaXQgZnJlZV0oaHR0cHM6Ly9odWdnaW5nZmFjZS5jby9z
+cGFjZXMvb3JhbWEtYWkvYWktY29kZS1yZXZpZXctcHJvKQoKCgotLS0KCiMj
+IEZyZWUgVGllciAmIFVzYWdlCgpBY2Nlc3MgdGhpcyB0b29sIGZvciBmcmVl
+IHdpdGggZGFpbHkgbGltaXRzLgpVcGdyYWRlIGZvciB1bmxpbWl0ZWQgYWNj
+ZXNzIHZpYSBTdHJpcGUuCgojIyBTdHJpcGUgQ2hlY2tvdXQKCltVcGdyYWRl
+IE5vd10oaHR0cHM6Ly9zb3ZlcmVpZ25haS5ndW1yb2FkLmNvbSkKCgojIyBB
+SS1DT0RFLVJFVklFVy1QUk8KW0dlbmVyYXRlZCBDb250ZW50IGZvcjogR2Vu
+ZXJhdGUgYSBzaG9ydCAnVVNFIENBU0UnIHNlY3Rpb24gZm9yIGEgUkVBRE1F
+IGFib3V0IGFpLWNvZGUtcmV2aWV3LXByby4gS2VlcCBpdCB1bmRlciA1MCB3
+b3Jkcy4gRm9jdXMgb24gcHJhY3RpY2FsIGFwcGxpY2F0aW9ucy5d
 
 
 ---
 
-## Free Tier & Usage
-
-Access this tool for free with daily limits.
-Upgrade for unlimited access via Stripe.
-
-## Stripe Checkout
+### 🚀 Free Tier & Upgrade
+- **Free**: 5 uses/day with our standard AI model.
+- **Upgrade**: Unlimited access via Stripe checkout.
+- **Use Case**: Perfect for developers building prototypes and startups needing reliable AI.
 
 [Upgrade Now](https://sovereignai.gumroad.com)
-
-
-## AI-CODE-REVIEW-PRO
-[Generated Content for: Generate a short 'USE CASE' section for a README about ai-code-review-pro. Keep it under 50 words. Focus on practical applications.]
