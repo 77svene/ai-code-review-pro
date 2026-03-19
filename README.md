@@ -21,3 +21,5 @@ Upgrade for unlimited access via Stripe.
 
 ## Monetization
 Free tier with usage limits (5 uses/day). Upgrade for unlimited access using Stripe.
+
+Updated verified free tier section (tick 560)
