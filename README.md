@@ -23,3 +23,10 @@ Upgrade for unlimited access via Stripe.
 Free tier with usage limits (5 uses/day). Upgrade for unlimited access using Stripe.
 
 Updated verified free tier section (tick 560)
+
+**Use Case:** AI tool for analyzing Ai Code Review Pro tasks efficiently.
+
+
+### 🚀 Free Tier & Upgrade
+- **Free:** 5 uses/day via GitHub/HF.
+- **Pro:** Unlimited access via Stripe checkout (see [pricing](#)).
