@@ -23,3 +23,13 @@
     ## Upgrade
     - [Upgrade for unlimited](https://sovereignai.gumroad.com) - Stripe Payments
     
+    ---
+    ### 🆓 Free Tier Access
+    **No Paywalls.** Access the AI model directly on HuggingFace:
+    `https://huggingface.co/spaces/orama-ai/code-review`
+    
+    ### ⚡ Rate Limiting
+    This tool implements exponential backoff to respect API providers.
+    **Status:** Operational.
+    **License:** MIT.
+    
