@@ -18,3 +18,6 @@ Whether you're fighting legacy spaghetti code, validating tricky logic before a 
 ## Pricing
 Free tier: 5 uses/day with clear use case for code reviews.
 Upgrade for unlimited access via Stripe.
+
+## Monetization
+Free tier with usage limits (5 uses/day). Upgrade for unlimited access using Stripe.
