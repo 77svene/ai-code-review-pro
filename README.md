@@ -79,3 +79,6 @@ Automate code review tasks instantly with AI-powered analysis. Free tier availab
 Upgrade for unlimited access via Stripe checkout.
 
 [Upgrade Now](#checkout)
+    ## USE CASE
+    Instantly review code for best practices, security, and optimization.
+    
