@@ -12,3 +12,6 @@ Catch bugs and get expert feedback on your code in seconds
 3. Copy fixed version
 
 [Try it free](https://huggingface.co/spaces/orama-ai/ai-code-review-pro)
+
+## Use Case
+Get instant AI-powered code reviews and intelligent suggestions in seconds
