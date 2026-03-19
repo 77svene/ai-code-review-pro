@@ -10,3 +10,8 @@
     ## Usage
     Run the tool locally or deploy on HuggingFace Spaces.
     
+
+## Support the Dev
+If this tool helped you, support development:
+- Crypto: https://nowpayments.io/payment/?iid=5075675404
+- Website: https://github.com/77svene/profit-agent-landing
