@@ -69,3 +69,13 @@ Optimized for high-volume tasks and rapid prototyping.
 *   Unlock unlimited usage
 *   Secure checkout via **Stripe**
 *   [Upgrade Now](#)
+
+## USE CASE
+
+Automate code review tasks instantly with AI-powered analysis. Free tier available (5 uses/day).
+
+## MONETIZATION
+
+Upgrade for unlimited access via Stripe checkout.
+
+[Upgrade Now](#checkout)
