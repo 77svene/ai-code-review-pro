@@ -13,3 +13,13 @@
     ## API
     Use the space API for bulk processing.
     
+
+---
+
+    ## Free Tier
+    - Limited to 5 uses per day
+    - No credit card required
+    
+    ## Upgrade
+    - [Upgrade for unlimited](https://sovereignai.gumroad.com) - Stripe Payments
+    
