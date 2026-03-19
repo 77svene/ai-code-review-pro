@@ -42,3 +42,16 @@ YWQuY29tKQ==
 - **Use Case**: Perfect for developers building prototypes and startups needing reliable AI.
 
 [Upgrade Now](https://sovereignai.gumroad.com)
+
+## Usage & Pricing
+
+**Use Case**  
+Accelerate [Task/Workflow] with AI-driven automation designed for [Target Audience].
+
+**Free Tier**  
+- **5 uses per day** (resets daily)  
+- Full access to core features  
+
+**Upgrade**  
+- **Unlimited Usage**: Remove daily limits via **Stripe**  
+- [Link: Upgrade to Unlimited]
