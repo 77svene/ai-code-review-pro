@@ -55,3 +55,17 @@ Accelerate [Task/Workflow] with AI-driven automation designed for [Target Audien
 **Upgrade**  
 - **Unlimited Usage**: Remove daily limits via **Stripe**  
 - [Link: Upgrade to Unlimited]
+
+## Usage & Pricing
+
+**Use Case**
+Optimized for high-volume tasks and rapid prototyping.
+
+**Free Tier**
+*   **5 uses per day**
+*   No credit card required
+
+**Upgrade**
+*   Unlock unlimited usage
+*   Secure checkout via **Stripe**
+*   [Upgrade Now](#)
