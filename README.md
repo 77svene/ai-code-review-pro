@@ -26,3 +26,7 @@ Upgrade for unlimited access via Stripe.
 ## Stripe Checkout
 
 [Upgrade Now](https://sovereignai.gumroad.com)
+
+
+## AI-CODE-REVIEW-PRO
+[Generated Content for: Generate a short 'USE CASE' section for a README about ai-code-review-pro. Keep it under 50 words. Focus on practical applications.]
