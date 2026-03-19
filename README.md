@@ -14,3 +14,15 @@
 
 [🚀 Try it free](https://huggingface.co/spaces/orama-ai/ai-code-review-pro)
 
+
+
+---
+
+## Free Tier & Usage
+
+Access this tool for free with daily limits.
+Upgrade for unlimited access via Stripe.
+
+## Stripe Checkout
+
+[Upgrade Now](https://sovereignai.gumroad.com)
